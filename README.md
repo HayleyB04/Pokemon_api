@@ -2,6 +2,9 @@
 
 I created a console app that uses the Pokeapi. The user can play a game where they have to find heavy Pokemon. They input the Pokemon id number and are shown information about the Pokemon. If the Pokemon is heavy they have won the game, if it is not they are given the chance to try another Pokemon.
 
+
+![Screenshot 2024-08-26 153343](https://github.com/user-attachments/assets/e89ab3e2-a8c9-4bc9-83b2-7112b791da81)
+
 This involved the following skills:
 
 - If and else statements were used to check if the weight of the Pokemon met certain requirements
